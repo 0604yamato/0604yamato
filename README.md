@@ -32,6 +32,16 @@ OpenAI GPT-4o + Google Cloud Run を使用した業務自動化システム
 | 成果 | 記事作成時間を **80%削減**（3時間→30分） |
 | 規模 | 月間 **50記事以上** を自動生成 |
 
+### 業務自動化システム
+
+Google Apps Script + Chatwork API を使用した営業管理・業務効率化システム
+
+| 項目 | 内容 |
+|------|------|
+| 技術 | Google Apps Script, Chatwork API, Google Sheets API |
+| 機能 | 顧客対応アラート通知、要対応リスト自動生成、見積書管理・データ同期 |
+| 成果 | 営業担当者の確認作業を自動化、対応漏れを削減 |
+
 ➡️ 詳細は [portfolio](https://github.com/0604yamato/portfolio) をご覧ください
 
 ---
