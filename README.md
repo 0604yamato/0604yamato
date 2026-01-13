@@ -15,6 +15,7 @@
 
 **Cloud / AI**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -41,6 +42,16 @@ Google Apps Script + Chatwork API を使用した営業管理・業務効率化�
 | 技術 | Google Apps Script, Chatwork API, Google Sheets API |
 | 機能 | 顧客対応アラート通知、要対応リスト自動生成、見積書管理・データ同期 |
 | 成果 | 営業担当者の確認作業を自動化、対応漏れを削減 |
+
+### AIチャットボットシステム
+
+Dialogflow CX + Vertex AI (Gemini) を使用したWebサイト埋め込み型チャットボット
+
+| 項目 | 内容 |
+|------|------|
+| 技術 | Dialogflow CX, Vertex AI (Gemini 2.5), Data Store, df-messenger |
+| 機能 | 自然言語理解、ナレッジベース連携、24時間自動応答 |
+| 成果 | 営業時間外の問い合わせ対応、業務負荷軽減 |
 
 ➡️ 詳細は [portfolio](https://github.com/0604yamato/portfolio) をご覧ください
 
